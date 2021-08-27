@@ -1,1 +1,1 @@
-# beer-game
+# Beer Game
